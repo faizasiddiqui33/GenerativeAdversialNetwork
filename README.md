@@ -1,6 +1,5 @@
-# GenerativeAdversialNetwork
-Generative Adversial Network
-utilize Tensorflow and Keras to create a generative adversarial network (GAN)
+# Generative Adversial Network  
+This project utilizes Tensorflow and Keras to create a generative adversarial network (GAN)
 trained on the MNIST dataset. The MNIST dataset is a modified version of the
 well-known set of handwritten digits originally produced by the National Institute of Standards
 and Technologies in the US. The generator must accept noise in the form of a vector as input,
